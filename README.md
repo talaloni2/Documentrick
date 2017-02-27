@@ -1,1 +1,1 @@
-# Documentrick
+# Documentrick 1.0
